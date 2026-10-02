@@ -1,90 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/avocat-definitiv-cu-experienta-profesionala",
-    "title": "Avocat definitiv si Avocat Stagiar",
-    "company": "LABORATOR PRIVAT &quot;SOCIETATEA CIVILĂ DE EXPERTIZĂ CRIMINALISTICĂ DIMA DRAGOȘ-SORIN&quot; S.R.L.",
-    "location": [
-      "Strada Berzei, Sector 1, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:48:16.507Z",
-    "status": "scraped",
-    "tags": [
-      "drept penal",
-      "criminalistică"
-    ],
-    "matchPercentage": 92,
-    "reason": "Cabinet de avocați cu variantă de stagiar, potrivire directă pentru drept penal și criminalistică."
-  },
-  {
-    "url": "https://multijobs.ro/job/jurist-consilier-juridic-legal-advisor-legal-counsel/5525",
-    "title": "Jurist/Consilier Juridic – Legal Advisor/Legal Counsel",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:56.276Z",
-    "status": "scraped",
-    "tags": [
-      "consultanță juridică",
-      "redactare acte"
-    ],
-    "matchPercentage": 90,
-    "reason": "Postul de Jurist/Consilier juridic folosește direct analiza normativă și consultanța juridică la nivel junior/mid."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/avocat-consilier-juridic-8",
-    "title": "AVOCAT/ CONSILIER JURIDIC",
-    "company": "CABINET DE MEDICINA INTERNA SI ECHOGRAFIE -  DR.LUCIA FOCSENEANU SRL",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:22.208Z",
-    "status": "scraped",
-    "tags": [
-      "consultanță juridică",
-      "reprezentare în instanță"
-    ],
-    "matchPercentage": 90,
-    "reason": "Postul de Avocat/Consilier juridic corespunde direct domeniului consultanță juridică și nivelului junior/entry."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/jurist-avocat-stagiar",
-    "title": "Jurist/Avocat Stagiar",
-    "company": "CABINET DE MEDICINA INTERNA SI ECHOGRAFIE -  DR.LUCIA FOCSENEANU SRL",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:52:43.402Z",
-    "status": "scraped",
-    "tags": [
-      "asistență de avocat",
-      "scriere juridică"
-    ],
-    "matchPercentage": 90,
-    "reason": "Jurist/avocat stagiar în cabinet, nivel ideal de început pentru drept civil, penal și procesual."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/avocat-stagiar-81",
-    "title": "Avocat stagiar",
-    "company": "CABINET MEDICAL INDIVIDUAL DENT SRL",
-    "location": [
-      "Strada Nikolai Gogol, Bucuresti 077190, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:41:37.785Z",
-    "status": "scraped",
-    "tags": [
-      "asistență de avocat",
-      "drept civil"
-    ],
-    "matchPercentage": 88,
-    "reason": "Avocat stagiar, nivelul corespunzător pentru un absolvent de drept."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/paralegal-legal-assistant-6",
     "title": "Paralegal / legal assistant",
     "company": "ZAMFIRESCU A. SORINEL PERSOANĂ FIZICĂ AUTORIZATĂ",
@@ -95,28 +10,11 @@
     "date": "2026-09-30T15:46:04.463Z",
     "status": "scraped",
     "tags": [
-      "consultanta juridica",
+      "asistenta de avocat",
       "redactare acte"
     ],
-    "matchPercentage": 88,
-    "reason": "Paralegal/legal assistant intr-un birou de avocatura, domeniu direct si nivel potrivit."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
-    "title": "Avocat",
-    "company": "ADECCO ROMANIA SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:44:56.289Z",
-    "status": "scraped",
-    "tags": [
-      "drept comercial",
-      "conformitate"
-    ],
-    "matchPercentage": 85,
-    "reason": "Avocat în energie cu consultanță, contracte comerciale și interacțiune cu autorități, relevant pentru drept comercial."
+    "matchPercentage": 93,
+    "reason": "Paralegal intr-un birou de avocatura, potrivire directa pentru asistenta juridica si redactare de acte."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/absolvent-drept-avocat-incepator-5077836",
@@ -129,147 +27,198 @@
     "date": "2026-09-30T14:49:38.480Z",
     "status": "scraped",
     "tags": [
-      "drept civil",
-      "scriere juridica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Pozitie dedicata absolventilor de drept, nivel incepator, in cabinet juridic."
-  },
-  {
-    "url": "https://multijobs.ro/job/paralegal-bucuresti-regim-hibrid/5711",
-    "title": "Paralegal – București, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T14:42:06.434Z",
-    "status": "scraped",
-    "tags": [
-      "asistenta juridica",
-      "drept procesual"
-    ],
-    "matchPercentage": 85,
-    "reason": "Paralegal junior cu regim hibrid, potrivire directa cu domeniul juridic."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3390445",
-    "title": "CONSILIER JURIDIC",
-    "company": "KMG ROMPETROL SRL",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:55:41.940Z",
-    "status": "scraped",
-    "tags": [
-      "Drept comercial",
-      "Drept civil"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consilier juridic entry-level la o companie multinationala, cu 0 ani experienta ceruti, se alinia perfect profilului de absolvent de Drept."
-  },
-  {
-    "url": "https://multijobs.ro/job/paralegal/5688",
-    "title": "PARALEGAL",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:51:39.147Z",
-    "status": "scraped",
-    "tags": [
-      "asistenta juridica",
-      "litigatii"
-    ],
-    "matchPercentage": 84,
-    "reason": "Paralegal entry-level, asistententa juridica si documentare compatibila cu formarea juridica."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-practician-in-insolventa-14",
-    "title": "Consilier juridic/practician in insolventa",
-    "company": "CARPAT SPORT  SRL",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:38.893Z",
-    "status": "scraped",
-    "tags": [
-      "insolventa",
-      "drept comercial"
-    ],
-    "matchPercentage": 83,
-    "reason": "Consilier juridic si practitioner in insolventa in Cluj, corespunde direct specializarii in dreptul insolventei."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnoredactor-secretar-consilier-juridic-notarial-1",
-    "title": "Tehnoredactor/secretar/consilier juridic notarial",
-    "company": "SIGNUM TAX SOCIETATE CU RASPUNDERE LIMITATĂ",
-    "location": [
-      "Calea Mosilor 262, Bucuresti, Municipiul Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:10.441Z",
-    "status": "scraped",
-    "tags": [
-      "acte normative",
-      "redactare acte"
-    ],
-    "matchPercentage": 82,
-    "reason": "Consilier juridic notarial în birou notarial, aplică direct analiza actelor normative, redactarea și verificarea actelor juridice."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-secretar-birou-notarial-1",
-    "title": "Consilier Juridic/Secretar Birou Notarial",
-    "company": "SOCIETATE PROFESIONALA DE CONSILIERI JURIDICI M.ANUSCA &amp; E.V.PLAVANESCU SRL",
-    "location": [
-      "Strada Constantin Radulescu-Motru, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:58:19.651Z",
-    "status": "scraped",
-    "tags": [
-      "consultanta juridica",
+      "consultanță juridică",
       "drept civil"
     ],
-    "matchPercentage": 82,
-    "reason": "Consilier juridic intr-un birou notarial, domeniu direct si nivel potrivit."
+    "matchPercentage": 90,
+    "reason": "Caută explicit absolvent de drept începător, potrivire directă cu profilul."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-executare-silita-65",
-    "title": "Consilier juridic (executare silită)",
-    "company": "BIROUL DE CONSULTANTA SI INTERMEDIERI SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-jurist-19",
+    "title": "Consilier juridic/ Jurist",
+    "company": "COSMIN KELOO SRL",
     "location": [
-      "Bulevardul Decebal nr 14, Bucuresti, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:03.571Z",
+    "date": "2026-10-01T15:28:39.780Z",
     "status": "scraped",
     "tags": [
       "drept procesual civil",
-      "litigatii"
+      "consultanță juridică"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier juridic in executare silita, aplicare dreptului procesual si al obligatiilor, nivel entry/mid."
+    "matchPercentage": 88,
+    "reason": "Consilier juridic în cadrul unui cabinet de avocat, potrivire directă pentru un absolvent de drept."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-1544",
-    "title": "Consilier juridic",
-    "company": "BIROU DE CONSULTANTA LMA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/avocat-definitiv-cu-experienta-profesionala",
+    "title": "Avocat definitiv si Avocat Stagiar",
+    "company": "LABORATOR PRIVAT &quot;SOCIETATEA CIVILĂ DE EXPERTIZĂ CRIMINALISTICĂ DIMA DRAGOȘ-SORIN&quot; S.R.L.",
+    "location": [
+      "Strada Berzei, Sector 1, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:25:01.974Z",
+    "status": "scraped",
+    "tags": [
+      "drept penal",
+      "proceduri instanta"
+    ],
+    "matchPercentage": 88,
+    "reason": "Poziție de avocat stagiar într-o societate de avocați cu profil criminalistic, care folosește direct dreptul penal, procesual penal și criminalistica."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3384382",
+    "title": "CONSILIER JURIDIC",
+    "company": "SPITALUL EUROPEAN DIN BUCURESTI SA",
+    "location": [
+      "Campulung, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:08.098Z",
+    "status": "scraped",
+    "tags": [
+      "analiza normelor",
+      "conformitate"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consilier juridic în spital, fără experiență cerută, cu analiză de acte normative și conformitate medicală."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-avocat-11",
+    "title": "Consilier juridic/ Avocat",
+    "company": "TECSA BUSINESS SRL",
+    "location": [
+      "Sector 3, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:13:58.440Z",
+    "status": "scraped",
+    "tags": [
+      "redactare contracte",
+      "conformitate"
+    ],
+    "matchPercentage": 86,
+    "reason": "Consilier juridic in-house cu cercetare legislativă, redactare contracte, negociere, reprezentare în instanță și conformitate – potrivire directă de domeniu la nivel entry/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/studenti-la-drept-sau-avocati-absolventi/2711",
+    "title": "Studenți la Drept sau Avocați Absolvenți",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:52:44.867Z",
+    "date": "2026-10-01T15:17:03.700Z",
     "status": "scraped",
     "tags": [
-      "litigatii",
-      "petitii"
+      "drept civil",
+      "consultanță juridică"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție dedicată studenților la drept și absolvenților, nivel entry potrivit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272162/ABC-Human-Capital/Consilier-Juridic---dreptul-muncii",
+    "title": "Consilier Juridic - dreptul muncii",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:20:11.201Z",
+    "status": "scraped",
+    "tags": [
+      "dreptul muncii",
+      "consultanta juridica"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consilier juridic specializat in dreptul muncii intr-o agentie de consultanta HR, nivel compatibil cu un profil junior/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic/907",
+    "title": "Consilier Juridic",
+    "company": "AUSTAL S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:39.780Z",
+    "status": "scraped",
+    "tags": [
+      "drept imobiliar",
+      "redactare contracte"
+    ],
+    "matchPercentage": 82,
+    "reason": "Consilier juridic într-o companie de construcții, cu consultanță, contracte și drept imobiliar."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/jurist-avocat-stagiar",
+    "title": "Jurist/Avocat Stagiar",
+    "company": "CABINET DE MEDICINA INTERNA SI ECHOGRAFIE -  DR.LUCIA FOCSENEANU SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:20:35.517Z",
+    "status": "scraped",
+    "tags": [
+      "redactare acte",
+      "analiza legislatiei"
+    ],
+    "matchPercentage": 82,
+    "reason": "Jurist/avocat stagiar, nivel entry, cu atribuții juridice de consultanță și redactare actelor."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
+    "title": "Avocat",
+    "company": "ADECCO ROMANIA SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:25:18.402Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "redactare contracte"
     ],
     "matchPercentage": 80,
-    "reason": "Consilier juridic in birou de executor judecatoresc, potrivire directa cu litigații si acte de executare."
+    "reason": "Avocat în companie din energie: consultanță juridică, drept comercial și imobiliar, redactare de acte, cu experiență comercială acceptabilă la nivel junior-mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-1444",
+    "title": "Consilier juridic",
+    "company": "BIROU DE CONSULTANTA LMA SRL",
+    "location": [
+      "Intrarea Tudor Stefan 9, București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:17:44.647Z",
+    "status": "scraped",
+    "tags": [
+      "drept procesual civil",
+      "notificări"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consilier juridic în birou de executor judecătoresc, aplică drept procesual și civil."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-1438",
+    "title": "Consilier juridic",
+    "company": "EVOLUTION SRL",
+    "location": [
+      "Strada Scoala Floreasca, București, Romania,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:50.293Z",
+    "status": "scraped",
+    "tags": [
+      "redactare acte",
+      "consultanta juridica"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consilier juridic entry-level, potrivit pentru redactare de acte și consultanță juridică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consilier-juridic-1456",
@@ -279,98 +228,182 @@
       "MUNICIPIUL BUCURESTI, SECTOR 3, PTA. ALBA IULIA, NR.6, BL.I 5, SC.B, ET.2, AP.32, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:48:40.626Z",
+    "date": "2026-10-01T15:13:45.711Z",
     "status": "scraped",
     "tags": [
-      "drept procesual civil",
-      "drept civil"
+      "proceduri judecătorești",
+      "petiții"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier juridic la executor judecatoresc, compatibil cu dreptul procesual si consultanta juridica."
+    "matchPercentage": 78,
+    "reason": "Birou executor judecătoresc, cu atribuții juridice reale (notificări, procese verbale, executare silvită), potrivite pentru un absolvent de drept."
   },
   {
-    "url": "https://usamvjobs.ro/job/voluntari-ilfov-2-ofiter-executie-contracte-cereale/",
-    "title": "Ofiter Executie Contracte Cereale",
-    "company": "AGRINVEST SRL",
+    "url": "https://multijobs.ro/job/jurist-consilier-juridic-legal-advisor-legal-counsel/5525",
+    "title": "Jurist/Consilier Juridic – Legal Advisor/Legal Counsel",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Voluntari, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:09.006Z",
+    "date": "2026-10-01T15:28:38.638Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "compliance"
+    ],
+    "matchPercentage": 76,
+    "reason": "Poziție de jurist/legal advisor potrivită la nivel entry, deși titlul acoperă și atribuții de counsel."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-achizitii-publice-si-contracte",
+    "title": "Specialist Achiziții Publice și Contracte",
+    "company": "CENTRUL DE INOVARE ŞI PROIECTARE URBANĂ SECTOR 6 S.R.L.",
+    "location": [
+      "Strada Andrei Muresanu 15, Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:18:23.589Z",
+    "status": "scraped",
+    "tags": [
+      "drept administrativ",
+      "contracte"
+    ],
+    "matchPercentage": 72,
+    "reason": "Achizitii publice si contracte la un proiectant urban din Cluj, relevant pentru drept administrativ si dreptul constructiilor."
+  },
+  {
+    "url": "https://www.librabank.ro/Cariere/Legal+Advisor+-+Credit+Support/1462",
+    "title": "Legal Advisor - Credit Support - Divizia Juridica",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:21:25.567Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "drept civil"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol juridic pe creditare și garantii reale, dar cere minimum 2 ani experiență similară."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/compliance-officer-emea-mfd/98654",
+    "title": "Compliance Officer EMEA (m/f/d)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:40.210Z",
+    "status": "scraped",
+    "tags": [
+      "analiză normativă",
+      "Dreptul UE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Compliance officer (etică, AML, antitrust, privacy) cu suport juridic și dezvoltare de cadru normativ intern, potrivit specializării în conformitate și reglementare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnoredactor-birou-notarial-consilier-juridic-2",
+    "title": "Tehnoredactor birou notarial/consilier juridic",
+    "company": "PROFESIONAL ECONT SRL",
+    "location": [
+      "Sanandrei, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:25:48.434Z",
+    "status": "scraped",
+    "tags": [
+      "redactare acte",
+      "drept civil"
+    ],
+    "matchPercentage": 70,
+    "reason": "Tehnoredactor și consilier juridic în birou notarial, relevant pentru redactare de acte juridice și drept civil."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/ai-compliance-officer-mfd-timisoara/99304",
+    "title": "AI Compliance Officer (m/f/d) - Timisoara",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:40.210Z",
+    "status": "scraped",
+    "tags": [
+      "analiză normativă",
+      "Dreptul UE"
+    ],
+    "matchPercentage": 68,
+    "reason": "Compliance și guvernanță AI bazată pe EU AI Act și politici interne – potrivire bună la domeniu, deși postul este de nivel officer cu experiență în compliance."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3133528",
+    "title": "SPECIALIST ÎN DOMENIUL SECURITATII SI SANATATII ÎN MUNCA",
+    "company": "IRIS SERVICE CIUC SA",
+    "location": [
+      "Miercurea ciuc, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:28:41.657Z",
+    "status": "scraped",
+    "tags": [
+      "dreptul muncii",
+      "conformitate"
+    ],
+    "matchPercentage": 66,
+    "reason": "Specialist SSM aplică reglementări de securitate și sănătate în muncă, relevant parțial pentru dreptul muncii."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic/6396",
+    "title": "CONSILIER JURIDIC",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Buzau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:25:26.135Z",
+    "status": "scraped",
+    "tags": [
+      "consultanță juridică",
+      "contracte"
+    ],
+    "matchPercentage": 64,
+    "reason": "Consilier juridic, domeniu direct de consultanță și contracte, deși nivelul nu este clar entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-contracte-si-proiecte-1",
+    "title": "Responsabil contracte și proiecte",
+    "company": "LUVANTHA MARKETING S.R.L.",
+    "location": [
+      "Târgu Mureș, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:26:28.617Z",
     "status": "scraped",
     "tags": [
       "redactare contracte",
       "drept comercial"
     ],
-    "matchPercentage": 80,
-    "reason": "Gestionarea, redactarea și executarea contractelor corespund direct competențelor de redactare de acte juridice și drept comercial, având un nivel potrivit pentru un debutant."
+    "matchPercentage": 62,
+    "reason": "Administrarea contractelor cu clienți și furnizori (elaborare, analiză, monitorizare) folosește direct redactarea și dreptul contractual, la nivel entry-level."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272179/Lactalis-Romania/Internship-Juridic---Legal-Intern",
-    "title": "Internship Juridic - Legal Intern",
-    "company": "LACTALIS ROMANIA SA OIEJDEA - SUCURSALA BUCURESTI",
+    "url": "https://multijobs.ro/job/human-resources-specialist-slatina-olt/5493",
+    "title": "Human Resources Specialist – Slatina, Olt",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Slatina, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:54:49.769Z",
+    "date": "2026-10-01T15:28:38.638Z",
     "status": "scraped",
     "tags": [
-      "Drept comercial",
-      "Drept Uniunii Europene"
-    ],
-    "matchPercentage": 80,
-    "reason": "Internship juridic intr-o corporatie multinationala, nivelul corespunde unui student/an absolvent fara experienta."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/colaborator-juridic-avocat-definitiv",
-    "title": "Colaborator juridic (Avocat definitiv)",
-    "company": "TONICA GROUP SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:51:33.568Z",
-    "status": "scraped",
-    "tags": [
-      "consultanță juridică",
-      "drept comercial"
-    ],
-    "matchPercentage": 75,
-    "reason": "Colaborator juridic în cabinet, relevant pentru consultanță juridică și drept comercial."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/avocat-definitiv-95",
-    "title": "Avocat Definitiv",
-    "company": "BRĂTULEA TEODOR-ADRIAN ÎNTREPRINDERE INDIVIDUALĂ",
-    "location": [
-      "Bulevardul Hristo Botev 1, Sector 3, Bucuresti, Municipiul Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:54:27.383Z",
-    "status": "scraped",
-    "tags": [
-      "asistență de avocat",
-      "litigații"
-    ],
-    "matchPercentage": 72,
-    "reason": "Cabinet de avocat cu rol de avocație directă, potrivit ca nivel pentru un licențiat, deși titlul \"definitiv\" implică înscriere în barou."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/4e867f69d4a4c4776c1b0d72db8834b764c866100",
-    "title": "Consilier juridic",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:57:59.316Z",
-    "status": "scraped",
-    "tags": [
-      "contracte",
       "dreptul muncii"
     ],
-    "matchPercentage": 71,
-    "reason": "Consilier juridic pentru management de contracte si Codul Muncii, dar se cere minim 3 ani de experienta."
+    "matchPercentage": 60,
+    "reason": "HR Specialist are tangență cu dreptul muncii, dar descrierea lipsește, potrivire doar parțială."
   }
 ]
