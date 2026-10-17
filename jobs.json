@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-compliance-analyst-german-1",
+    "title": "Junior Compliance Analyst (German)",
+    "company": "BEARINGPOINT SRL",
+    "location": [
+      "Bucuresti",
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:06.972Z",
+    "status": "scraped",
+    "tags": [
+      "Conformitate și reglementare",
+      "Drept comercial"
+    ],
+    "matchPercentage": 84,
+    "reason": "Rol de junior compliance (conformitate și reglementare) la nivel entry, domeniu acoperit de competențele tale, deși cerința de limba germană e suplimentară."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic/6396",
+    "title": "CONSILIER JURIDIC",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Buzau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:18.822Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare acte juridice",
+      "Analiză normativă"
+    ],
+    "matchPercentage": 76,
+    "reason": "Consilier juridic este rolul direct potrivit profilului, dar lipsesc detalii despre nivelul de experiență cerut."
+  },
+  {
+    "url": "https://www.antal.com/job-search/616816-Legal-Counsel-Construction-and-Public-Procurement",
+    "title": "Legal Counsel | Construction and Public Procurement",
+    "company": "ANTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:16.066Z",
+    "status": "scraped",
+    "tags": [
+      "Drept administrativ",
+      "Analiză și interpretare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol juridic în construcții și achiziții publice, domeniu care folosește direct interpretarea normativă și dreptul administrativ, dar nivelul de experiență nu este specificat."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272653/BDO/Tax-Compliance-Specialist",
+    "title": "Tax Compliance Specialist",
+    "company": "BDO UTIL SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:52.618Z",
+    "status": "scraped",
+    "tags": [
+      "Drept fiscal",
+      "Conformitate"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tax compliance se bazează pe aplicarea reglementărilor fiscale, aliniindu-se cu dreptul finanțelor publice și competența de conformitate."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=391#content",
+    "title": "Specialist Achizitii Publice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:29.123Z",
+    "status": "scraped",
+    "tags": [
+      "Drept administrativ",
+      "Analiză și interpretare"
+    ],
+    "matchPercentage": 64,
+    "reason": "Achizițiile publice cer cunoașterea legislației și interpretarea textelor normative, la nivel junior/mid, deși se cere profil tehnic și 2 ani experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-licitatii-publice-34",
+    "title": "Specialist Licitatii Publice",
+    "company": "IULIAN FOOD&amp;FOOD SRL",
+    "location": [
+      "Strada Arcului",
+      "Magurele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:39.213Z",
+    "status": "scraped",
+    "tags": [
+      "Drept administrativ",
+      "Redactare de contracte"
+    ],
+    "matchPercentage": 60,
+    "reason": "Licitarea procedurilor publice folosește legislația de achiziții și redactarea documentației, potrivit ca nivel de specialitate."
+  }
+]
