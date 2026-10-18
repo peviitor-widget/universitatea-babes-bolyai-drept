@@ -1,111 +1,271 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/junior-compliance-analyst-german-1",
-    "title": "Junior Compliance Analyst (German)",
-    "company": "BEARINGPOINT SRL",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/legal-advisor-litigation/100198",
+    "title": "Legal Advisor Litigation",
+    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
     "location": [
-      "Bucuresti",
-      "Sibiu",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:06.972Z",
+    "date": "2026-10-17T12:22:02.148Z",
     "status": "scraped",
     "tags": [
-      "Conformitate și reglementare",
+      "reprezentare în instanță",
       "Drept comercial"
     ],
-    "matchPercentage": 84,
-    "reason": "Rol de junior compliance (conformitate și reglementare) la nivel entry, domeniu acoperit de competențele tale, deși cerința de limba germană e suplimentară."
+    "matchPercentage": 88,
+    "reason": "Asistență juridică, strategie procesuală și reprezentare în instanță pentru societate, potrivire directă cu profilul de litigații."
   },
   {
-    "url": "https://multijobs.ro/job/consilier-juridic/6396",
-    "title": "CONSILIER JURIDIC",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
+    "title": "Legal Advisor(Junior / Middle Level)",
+    "company": "MEYA PRO S.R.L.",
     "location": [
-      "Buzau",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:18.822Z",
+    "date": "2026-10-17T12:17:08.713Z",
     "status": "scraped",
     "tags": [
-      "Redactare acte juridice",
+      "Redactare contracte",
       "Analiză normativă"
     ],
-    "matchPercentage": 76,
-    "reason": "Consilier juridic este rolul direct potrivit profilului, dar lipsesc detalii despre nivelul de experiență cerut."
+    "matchPercentage": 85,
+    "reason": "Consultanță juridică la nivel junior/middle, potrivit direct pentru absolvire și folosește competențele de analiză și redactare juridică."
   },
   {
-    "url": "https://www.antal.com/job-search/616816-Legal-Counsel-Construction-and-Public-Procurement",
-    "title": "Legal Counsel | Construction and Public Procurement",
-    "company": "ANTAL SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417074",
+    "title": "CONSILIER JURIDIC",
+    "company": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:46.968Z",
+    "status": "scraped",
+    "tags": [
+      "drept administrativ",
+      "dreptul transporturilor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consilier juridic fără experiență la o companie națională de administrare a infrastructurii, entry-level și domeniu administrativ/transporturi potrivit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272330/Leroy-Merlin/Consilier-juridic-(Marketplace-&amp;-Protectia-Consumatorului)",
+    "title": "Consilier juridic (Marketplace &amp; Protectia Consumatorului)",
+    "company": "LEROY MERLIN ROMANIA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:04.864Z",
+    "status": "scraped",
+    "tags": [
+      "dreptul consumatorului",
+      "drept comercial"
+    ],
+    "matchPercentage": 82,
+    "reason": "Consilier juridic pe protecția consumatorului și marketplace, potrivire directă cu dreptul consumatorului și dreptul comercial."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Avocat-Junior",
+    "title": "Avocat Junior",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:16.066Z",
+    "date": "2026-10-17T12:17:55.341Z",
     "status": "scraped",
     "tags": [
-      "Drept administrativ",
-      "Analiză și interpretare"
+      "Reprezentarea în instanță",
+      "Scriere juridică"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol juridic în construcții și achiziții publice, domeniu care folosește direct interpretarea normativă și dreptul administrativ, dar nivelul de experiență nu este specificat."
+    "matchPercentage": 80,
+    "reason": "Activitate juridică directă: reprezentare în instanță, redactare de documente procesuale și monitorizarea termenelor, la nivel junior/cu max. 3 ani experiență."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272653/BDO/Tax-Compliance-Specialist",
-    "title": "Tax Compliance Specialist",
-    "company": "BDO UTIL SRL",
+    "url": "https://multijobs.ro/job/consilier-juridic-debutant/167",
+    "title": "Consilier juridic debutant",
+    "company": "TRANSILVANIA RECUPERARI CREANTE SRL",
     "location": [
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:52.618Z",
+    "date": "2026-10-17T12:12:31.472Z",
     "status": "scraped",
     "tags": [
-      "Drept fiscal",
-      "Conformitate"
+      "drept civil",
+      "drept procesual civil"
     ],
-    "matchPercentage": 68,
-    "reason": "Tax compliance se bazează pe aplicarea reglementărilor fiscale, aliniindu-se cu dreptul finanțelor publice și competența de conformitate."
+    "matchPercentage": 80,
+    "reason": "Consilier juridic debutant în recuperări de creanțe la Cluj, nivel perfect pentru absolvent și domeniu civil/procedural direct."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=391#content",
-    "title": "Specialist Achizitii Publice",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
+    "title": "Avocat",
+    "company": "ADECCO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:01:51.952Z",
+    "status": "scraped",
+    "tags": [
+      "Drept comercial",
+      "Redactare de contracte"
+    ],
+    "matchPercentage": 78,
+    "reason": "Rol de consiliere juridică pe drept comercial, tranzacții imobiliare, redactarea de contracte și reprezentarea în fața autorităților, la nivel fără cerințe senior."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272162/ABC-Human-Capital/Consilier-Juridic---dreptul-muncii",
+    "title": "Consilier Juridic - dreptul muncii",
+    "company": "ABC HUMAN CAPITAL SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:29.123Z",
+    "date": "2026-10-17T12:18:39.211Z",
     "status": "scraped",
     "tags": [
-      "Drept administrativ",
-      "Analiză și interpretare"
+      "dreptul muncii",
+      "consultanță juridică"
     ],
-    "matchPercentage": 64,
-    "reason": "Achizițiile publice cer cunoașterea legislației și interpretarea textelor normative, la nivel junior/mid, deși se cere profil tehnic și 2 ani experiență."
+    "matchPercentage": 78,
+    "reason": "Consilier juridic specializat pe dreptul muncii, potrivire directă cu competența de drept al muncii și consultanță juridică."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-licitatii-publice-34",
-    "title": "Specialist Licitatii Publice",
-    "company": "IULIAN FOOD&amp;FOOD SRL",
+    "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
+    "title": "Specialist achiziții publice",
+    "company": "INFODIF SOLUTIONS S.R.L.",
     "location": [
-      "Strada Arcului",
-      "Magurele",
+      "Constanţa",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:39.213Z",
+    "date": "2026-10-17T12:12:45.159Z",
     "status": "scraped",
     "tags": [
       "Drept administrativ",
       "Redactare de contracte"
     ],
+    "matchPercentage": 78,
+    "reason": "Postul presupune aplicarea legislației achizițiilor publice, analiză normativă și întocmire de documente/contracte, cu doar 2 ani experiență ceruți și studii juridice acceptate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3403505",
+    "title": "CONSILIER JURIDIC",
+    "company": "C&amp;A FRACHT TRANSPORT LOGISTIK SRL",
+    "location": [
+      "Branistea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:53.978Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "redactare acte"
+    ],
+    "matchPercentage": 76,
+    "reason": "Consilier juridic fără experiență la o firmă de transport/logistică, potrivit ca prim rol juridic."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
+    "title": "Secretar / Secretara",
+    "company": "BIROU DE CONSULTANTA LMA SRL",
+    "location": [
+      "Ploiesti",
+      "Campina",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:02:25.444Z",
+    "status": "scraped",
+    "tags": [
+      "drept procesual civil",
+      "redactare acte"
+    ],
+    "matchPercentage": 72,
+    "reason": "Gestionarea dosarelor de executare și comunicarea actelor de procedură folosesc direct dreptul procesual civil, iar studiile de drept sunt avantaj."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic/3689",
+    "title": "CONSILIER JURIDIC",
+    "company": "MATEI CONSTRUCT CONSTRUCTII SPECIALE SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:47.716Z",
+    "status": "scraped",
+    "tags": [
+      "redactare acte",
+      "drept civil"
+    ],
+    "matchPercentage": 68,
+    "reason": "Consilier juridic la o companie de construcții, rol juridic de intrare relevant pentru contracte și acte juridice."
+  },
+  {
+    "url": "https://multijobs.ro/job/societatea-profesionala-notariala-asterio-angajeaza-secretar-notarial/608",
+    "title": "Societatea Profesionala Notariala Asterio angajeaza secretar notarial!",
+    "company": "SOCIETATE PROFESIONALA DE CONSILIERI JURIDICI M.ANUSCA &amp; E.V.PLAVANESCU SRL",
+    "location": [
+      "Slobozia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:27.432Z",
+    "status": "scraped",
+    "tags": [
+      "redactare acte"
+    ],
+    "matchPercentage": 65,
+    "reason": "Secretar notarial într-o societate notarială presupune lucrul cu acte juridice și proceduri notariale, potrivit pentru un student/absolvent de drept."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-achizitii-publice-national",
+    "title": "Expert achizitii publice - national",
+    "company": "ISERA CONSULTING SERVICES SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:58.519Z",
+    "status": "scraped",
+    "tags": [
+      "Drept administrativ",
+      "Redactare de contracte"
+    ],
+    "matchPercentage": 65,
+    "reason": "Expertiza în achiziții publice se bazează pe legislație administrativă și redactarea ofertelor/contractelor, potrivite unui absolvent de drept."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/voluntari-ilfov-2-ofiter-executie-contracte-cereale/",
+    "title": "Ofiter Executie Contracte Cereale",
+    "company": "AGRINVEST SRL",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:03:03.140Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare de contracte",
+      "Drept comercial"
+    ],
     "matchPercentage": 60,
-    "reason": "Licitarea procedurilor publice folosește legislația de achiziții și redactarea documentației, potrivit ca nivel de specialitate."
+    "reason": "Intrare în forță pe redactarea, verificarea și arhivarea contractelor, plus gestiunea biletelor la ordin și garanțiilor contractuale, cu nivel explicit entry-level."
   }
 ]
