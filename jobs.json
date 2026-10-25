@@ -1,39 +1,21 @@
 [
   {
-    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00352011_en&amp;title=Ethics+and+Compliance+Counsel+Data+Privacy+Specialist",
-    "title": "Ethics and Compliance Counsel Data Privacy Specialist",
-    "company": "ACCENTURE BOARD SRL",
+    "url": "https://www.prohuman.ro/candidati/jobs/Avocat-Junior",
+    "title": "Avocat Junior",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:36.131Z",
+    "date": "2026-10-17T12:17:55.341Z",
     "status": "scraped",
     "tags": [
-      "protectia datelor",
-      "conformitate"
+      "litigii",
+      "drept comercial"
     ],
     "matchPercentage": 95,
-    "reason": "Sarcini directe de dreptul protecției datelor, revizuiri contractuale și aplicare a reglementărilor."
-  },
-  {
-    "url": "https://multijobs.ro/job/consilier-juridic-debutant/167",
-    "title": "Consilier juridic debutant",
-    "company": "TRANSILVANIA RECUPERARI CREANTE SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:31.472Z",
-    "status": "scraped",
-    "tags": [
-      "consiliere juridică",
-      "drept civil"
-    ],
-    "matchPercentage": 95,
-    "reason": "Consilier juridic debutant, nivel entry-level direct relevant"
+    "reason": "Activitate juridică de litigii, redactare acte procesuale"
   },
   {
     "url": "https://multijobs.ro/job/studenti-la-drept-sau-avocati-absolventi/2711",
@@ -47,245 +29,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "drept civil",
-      "redactare acte"
+      "drept",
+      "asistenta"
     ],
-    "matchPercentage": 92,
-    "reason": "Poziție destinată explicit studenților la drept și avocaților absolvenți, direct relevantă."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Avocat-Junior",
-    "title": "Avocat Junior",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:55.341Z",
-    "status": "scraped",
-    "tags": [
-      "litigii",
-      "redactare acte"
-    ],
-    "matchPercentage": 90,
-    "reason": "Rol de avocat junior cu litigii si redactare de acte procedurale, direct pe competentele juridice si la nivel potrivit de experienta."
-  },
-  {
-    "url": "https://www.librabank.ro/Cariere/Legal+Advisor+-+Credit+Support/1462",
-    "title": "Legal Advisor - Credit Support - Divizia Juridica",
-    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:25.184Z",
-    "status": "scraped",
-    "tags": [
-      "drept civil",
-      "drept comercial"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consilier juridic pe creditare, cu drept civil și comercial, nivel mid compatibil."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
-    "title": "Secretar / Secretara",
-    "company": "BIROU DE CONSULTANTA LMA SRL",
-    "location": [
-      "Ploiesti",
-      "Campina",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:02:25.444Z",
-    "status": "scraped",
-    "tags": [
-      "executare silită",
-      "procedură civilă"
-    ],
-    "matchPercentage": 90,
-    "reason": "Executare silită/proceduri civile, direct relevant"
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
-    "title": "Legal Advisor(Junior / Middle Level)",
-    "company": "MEYA PRO S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:08.713Z",
-    "status": "scraped",
-    "tags": [
-      "drept imobiliar",
-      "drept comercial"
-    ],
-    "matchPercentage": 88,
-    "reason": "Consilier juridic junior/middle în imobiliare, potrivit pentru drept imobiliar și comercial."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
-    "title": "Avocat",
-    "company": "ADECCO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:01:51.952Z",
-    "status": "scraped",
-    "tags": [
-      "drept comercial",
-      "drept imobiliar"
-    ],
-    "matchPercentage": 85,
-    "reason": "Avocat corporate cu drept comercial, imobiliar si redactare documente juridice, potrivit competentelor si nivelului."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3403505",
-    "title": "CONSILIER JURIDIC",
-    "company": "C&amp;A FRACHT TRANSPORT LOGISTIK SRL",
-    "location": [
-      "Branistea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:53.978Z",
-    "status": "scraped",
-    "tags": [
-      "consiliere juridică",
-      "drept"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consilier juridic entry-level, domeniu general juridic"
-  },
-  {
-    "url": "https://multijobs.ro/job/consilier-juridic/3689",
-    "title": "CONSILIER JURIDIC",
-    "company": "MATEI CONSTRUCT CONSTRUCTII SPECIALE SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:47.716Z",
-    "status": "scraped",
-    "tags": [
-      "consiliere juridică",
-      "drept civil"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consilier juridic, nivel entry-level potrivit"
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272925/PPC-ROMANIA/Data-Protection-Officer-(2-ani)",
-    "title": "Data Protection Officer (2 ani)",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:52.236Z",
-    "status": "scraped",
-    "tags": [
-      "GDPR",
-      "conformitate"
-    ],
-    "matchPercentage": 82,
-    "reason": "Rol de compliance și protecția datelor, care valorifică direct analiza normativă și dreptul UE."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272330/Leroy-Merlin/Consilier-juridic-(Marketplace-&amp;-Protectia-Consumatorului)",
-    "title": "Consilier juridic (Marketplace &amp; Protectia Consumatorului)",
-    "company": "LEROY MERLIN ROMANIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:04.864Z",
-    "status": "scraped",
-    "tags": [
-      "protecția consumatorului",
-      "marketplace"
-    ],
-    "matchPercentage": 80,
-    "reason": "Protecția consumatorului relevant pentru drept"
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-achizitii-publice/3308",
-    "title": "EXPERT ACHIZITII PUBLICE",
-    "company": "D.B. TECHNOLIGHT SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
-    "status": "scraped",
-    "tags": [
-      "achizitii",
-      "administrativ"
-    ],
-    "matchPercentage": 80,
-    "reason": "Achiziții publice - domeniu juridic-administrativ direct relevant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/expert-achizitii-publice-national",
-    "title": "Expert achizitii publice - national",
-    "company": "ISERA CONSULTING SERVICES SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:58.519Z",
-    "status": "scraped",
-    "tags": [
-      "achizitii",
-      "administrativ"
-    ],
-    "matchPercentage": 80,
-    "reason": "Achiziții publice naționale, domeniu direct relevant."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271661/ABC-Human-Capital/Expert-achiziții-publice/Coordonator-departament-Licitații",
-    "title": "Expert achiziții publice/Coordonator departament Licitații",
-    "company": "ABC HUMAN CAPITAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:39.211Z",
-    "status": "scraped",
-    "tags": [
-      "achizitii",
-      "administrativ"
-    ],
-    "matchPercentage": 78,
-    "reason": "Achiziții publice/coordonare, nivel și domeniu acceptabile."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
-    "title": "Specialist achiziții publice",
-    "company": "INFODIF SOLUTIONS S.R.L.",
-    "location": [
-      "Constanţa",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:45.159Z",
-    "status": "scraped",
-    "tags": [
-      "achizitii",
-      "administrativ"
-    ],
-    "matchPercentage": 78,
-    "reason": "Specialist achiziții publice, experiența cerută este acceptabilă."
+    "matchPercentage": 95,
+    "reason": "Destinat explicit studenților la Drept sau avocaților absolvenți."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272162/ABC-Human-Capital/Consilier-Juridic---dreptul-muncii",
@@ -300,27 +48,261 @@
     "status": "scraped",
     "tags": [
       "dreptul muncii",
-      "recrutare"
+      "contracte"
     ],
-    "matchPercentage": 75,
-    "reason": "Dreptul muncii relevant, dar profil HR/recrutare"
+    "matchPercentage": 95,
+    "reason": "Consultanță directă în dreptul muncii, perfect relevantă pentru un student/absolvent de drept."
   },
   {
-    "url": "https://www.bookingholdings-coe.com/bookingholdings-coe/jobs/29757?lang=en-us",
-    "title": "Booking Holdings Romania - IT Risk &amp; Compliance Officer (PCI)",
-    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/consilier-juridic-debutant/167",
+    "title": "Consilier juridic debutant",
+    "company": "TRANSILVANIA RECUPERARI CREANTE SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:31.472Z",
+    "status": "scraped",
+    "tags": [
+      "procedură civilă",
+      "executare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Recuperări de creanțe și procedură civilă, ideal pentru un consilier juridic debutant."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/avocat-definitiv-colaborare/99249605",
+    "title": "Avocat definitiv – colaborare",
+    "company": "UPLINE HR SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:19.407Z",
+    "date": "2026-10-17T12:08:37.135Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "contracte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultanță juridică, acte comerciale și recuperare creanțe"
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
+    "title": "Avocat",
+    "company": "ADECCO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:01:51.952Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "contracte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultanță juridică în comerț, contracte și reprezentare"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
+    "title": "Legal Advisor(Junior / Middle Level)",
+    "company": "MEYA PRO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:08.713Z",
+    "status": "scraped",
+    "tags": [
+      "drept",
+      "contracte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol de consilier juridic, direct în domeniul dreptului."
+  },
+  {
+    "url": "https://www.librabank.ro/Cariere/Legal+Advisor+-+Credit+Support/1462",
+    "title": "Legal Advisor - Credit Support - Divizia Juridica",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:25.184Z",
+    "status": "scraped",
+    "tags": [
+      "drept",
+      "contracte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consilier juridic în divizia juridică, redactare și avizare acte juridice."
+  },
+  {
+    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00352011_en&amp;title=Ethics+and+Compliance+Counsel+Data+Privacy+Specialist",
+    "title": "Ethics and Compliance Counsel Data Privacy Specialist",
+    "company": "ACCENTURE BOARD SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:36.131Z",
     "status": "scraped",
     "tags": [
       "conformitate",
-      "reglementare"
+      "dreptul Uniunii Europene"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol juridic de counsel în conformitate și protecția datelor."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272330/Leroy-Merlin/Consilier-juridic-(Marketplace-&amp;-Protectia-Consumatorului)",
+    "title": "Consilier juridic (Marketplace &amp; Protectia Consumatorului)",
+    "company": "LEROY MERLIN ROMANIA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:04.864Z",
+    "status": "scraped",
+    "tags": [
+      "protecția consumatorului",
+      "compliance"
+    ],
+    "matchPercentage": 90,
+    "reason": "Sarcini legate de protecția consumatorului și compliance, direct relevante."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Endava/744000157048839",
+    "title": "Commercial Legal Counsel",
+    "company": "ENDAVA ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T09:56:08.241Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "contracte"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultanță juridică comercială, redactare și negociere contracte."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic/3689",
+    "title": "CONSILIER JURIDIC",
+    "company": "MATEI CONSTRUCT CONSTRUCTII SPECIALE SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:47.716Z",
+    "status": "scraped",
+    "tags": [
+      "contracte",
+      "imobiliar"
+    ],
+    "matchPercentage": 85,
+    "reason": "Activitate juridică în domeniul construcțiilor, relevantă pentru dreptul imobiliar și contracte."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3403505",
+    "title": "CONSILIER JURIDIC",
+    "company": "C&amp;A FRACHT TRANSPORT LOGISTIK SRL",
+    "location": [
+      "Branistea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:53.978Z",
+    "status": "scraped",
+    "tags": [
+      "contracte",
+      "compliance"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de consilier juridic, nivel entry-level, cu potențial în contracte și conformitate."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272925/PPC-ROMANIA/Data-Protection-Officer-(2-ani)",
+    "title": "Data Protection Officer (2 ani)",
+    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:52.236Z",
+    "status": "scraped",
+    "tags": [
+      "Drept UE",
+      "Compliance"
+    ],
+    "matchPercentage": 78,
+    "reason": "Funcția de DPO implică direct conformitate, protecția datelor și interpretare normativă, la un nivel potrivit unui absolvent sau tânăr jurist."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
+    "title": "Secretar / Secretara",
+    "company": "BIROU DE CONSULTANTA LMA SRL",
+    "location": [
+      "Ploiesti",
+      "Campina",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:02:25.444Z",
+    "status": "scraped",
+    "tags": [
+      "executare",
+      "procedură civilă"
+    ],
+    "matchPercentage": 78,
+    "reason": "Sarcini de executare, notificări și aplicarea actelor procedurale, parțial relevante."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/hr-business-partner-hr-coordinator_bucuresti_5397/",
+    "title": "HR Business Partner / HR Coordinator",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-23T10:58:44.109Z",
+    "status": "scraped",
+    "tags": [
+      "dreptul muncii",
+      "resurse umane"
     ],
     "matchPercentage": 65,
-    "reason": "Domeniul conformității și reglementării se potrivește parțial, însă accentul este pe aspecte IT."
+    "reason": "Rol generalist HR cu aplicare a legislației muncii, nivel coordonator potrivit pentru student/absolvent."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
+    "title": "Specialist achiziții publice",
+    "company": "INFODIF SOLUTIONS S.R.L.",
+    "location": [
+      "Constanţa",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:45.159Z",
+    "status": "scraped",
+    "tags": [
+      "Drept administrativ",
+      "Drept comercial"
+    ],
+    "matchPercentage": 65,
+    "reason": "Poziția implică aplicarea legislației achizițiilor publice și gestionarea contractelor, domeniu parțial juridic, cu un nivel de experiență de 2 ani acceptabil."
   }
 ]
