@@ -14,44 +14,79 @@
       "drept civil",
       "redactare acte"
     ],
-    "matchPercentage": 95,
-    "reason": "Poziție dedicată explicit studenților la drept și avocaților absolvenți."
+    "matchPercentage": 90,
+    "reason": "Rol dedicat studenților la Drept sau absolvenților de drept, potrivire directă pe competențe juridice."
   },
   {
-    "url": "https://multijobs.ro/job/consilier-juridic-debutant/167",
-    "title": "Consilier juridic debutant",
-    "company": "TRANSILVANIA RECUPERARI CREANTE SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:31.472Z",
-    "status": "scraped",
-    "tags": [
-      "consultanta juridica",
-      "litigii"
-    ],
-    "matchPercentage": 95,
-    "reason": "Explicit debutant, sarcini juridice directe."
-  },
-  {
-    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00352011_en&amp;title=Ethics+and+Compliance+Counsel+Data+Privacy+Specialist",
-    "title": "Ethics and Compliance Counsel Data Privacy Specialist",
-    "company": "ACCENTURE BOARD SRL",
+    "url": "https://www.librabank.ro/Cariere/Legal+Advisor+-+Credit+Support/1462",
+    "title": "Legal Advisor - Credit Support - Divizia Juridica",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:36.131Z",
+    "date": "2026-10-17T12:19:25.184Z",
     "status": "scraped",
     "tags": [
-      "compliance",
-      "drept"
+      "drept comercial",
+      "contracte"
     ],
-    "matchPercentage": 90,
-    "reason": "Domeniul de data privacy/conformitate folosește direct competențele juridice."
+    "matchPercentage": 88,
+    "reason": "Consilier juridic credit support cu redactare/avizare contracte și consultanță, potrivire directă."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272330/Leroy-Merlin/Consilier-juridic-(Marketplace-&amp;-Protectia-Consumatorului)",
+    "title": "Consilier juridic (Marketplace &amp; Protectia Consumatorului)",
+    "company": "LEROY MERLIN ROMANIA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:04.864Z",
+    "status": "scraped",
+    "tags": [
+      "dreptul consumatorului",
+      "drept comercial"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consilier juridic pe protecția consumatorului și marketplace, folosește direct dreptul consumatorului și dreptul comercial."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Avocat-Junior",
+    "title": "Avocat Junior",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:55.341Z",
+    "status": "scraped",
+    "tags": [
+      "Drept procesual civil",
+      "Redactare acte juridice"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de avocat junior cu litigii, redactare de acte procesuale și reprezentare în instanță, direct pe competențele juridice, iar 2-3 ani experiență se încadrează la nivel mid."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
+    "title": "Legal Advisor(Junior / Middle Level)",
+    "company": "MEYA PRO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:08.713Z",
+    "status": "scraped",
+    "tags": [
+      "drept civil",
+      "drept imobiliar"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consilier juridic junior/middle în imobiliare, folosește direct competențele de drept civil și comercial."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272162/ABC-Human-Capital/Consilier-Juridic---dreptul-muncii",
@@ -66,117 +101,28 @@
     "status": "scraped",
     "tags": [
       "dreptul muncii",
-      "consultanta juridica"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consilier juridic în dreptul muncii, direct relevant."
-  },
-  {
-    "url": "https://www.librabank.ro/Cariere/Legal+Advisor+-+Credit+Support/1462",
-    "title": "Legal Advisor - Credit Support - Divizia Juridica",
-    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:25.184Z",
-    "status": "scraped",
-    "tags": [
-      "drept civil",
-      "drept comercial"
-    ],
-    "matchPercentage": 88,
-    "reason": "Consilier juridic în creditare, cu redactare și avizare de contracte și garanții."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272925/PPC-ROMANIA/Data-Protection-Officer-(2-ani)",
-    "title": "Data Protection Officer (2 ani)",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:52.236Z",
-    "status": "scraped",
-    "tags": [
-      "protecția datelor",
-      "conformitate"
-    ],
-    "matchPercentage": 88,
-    "reason": "Data Protection Officer se potrivește cu dreptul și conformitatea."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
-    "title": "Avocat",
-    "company": "ADECCO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:01:51.952Z",
-    "status": "scraped",
-    "tags": [
-      "drept comercial",
-      "redactare contracte"
+      "consultanță juridică"
     ],
     "matchPercentage": 85,
-    "reason": "Consilier juridic corporate cu redactare și verificare de documente, consultanță comercială și reprezentare în fața autorităților."
+    "reason": "Consilier juridic specializat pe dreptul muncii, potrivire directă cu competențele de drept al muncii și consultanță juridică."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272330/Leroy-Merlin/Consilier-juridic-(Marketplace-&amp;-Protectia-Consumatorului)",
-    "title": "Consilier juridic (Marketplace &amp; Protectia Consumatorului)",
-    "company": "LEROY MERLIN ROMANIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417074",
+    "title": "CONSILIER JURIDIC",
+    "company": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
     "location": [
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:16:04.864Z",
-    "status": "scraped",
-    "tags": [
-      "protectia consumatorului",
-      "drept comercial"
-    ],
-    "matchPercentage": 85,
-    "reason": "Protecția consumatorului, relevantă pentru un jurist."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Avocat-Junior",
-    "title": "Avocat Junior",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:55.341Z",
-    "status": "scraped",
-    "tags": [
-      "drept comercial",
-      "redactare acte"
-    ],
-    "matchPercentage": 82,
-    "reason": "Rol juridic direct pe litigii comerciale și bancare, cu redactare de acte și reprezentare în instanță, iar nivelul junior cu 2–3 ani experiență se încadrează."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
-    "title": "Legal Advisor(Junior / Middle Level)",
-    "company": "MEYA PRO S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:08.713Z",
+    "date": "2026-10-17T12:15:46.968Z",
     "status": "scraped",
     "tags": [
       "consultanță juridică",
-      "drept comercial"
+      "drept administrativ"
     ],
-    "matchPercentage": 82,
-    "reason": "Consilier juridic junior/mid, cu sarcini directe de consultanță juridică."
+    "matchPercentage": 85,
+    "reason": "Consilier juridic fără experiență la companie de infrastructură rutieră, potrivit pentru absolvent/student la ani mari."
   },
   {
     "url": "https://multijobs.ro/job/consilier-juridic/3689",
@@ -191,10 +137,82 @@
     "status": "scraped",
     "tags": [
       "drept comercial",
-      "consultanta juridica"
+      "redactare contracte"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de consilier juridic, relevant pentru practică juridică."
+    "matchPercentage": 85,
+    "reason": "Consilier juridic în companie de construcții, potrivire directă cu redactarea de acte și dreptul afacerilor."
+  },
+  {
+    "url": "https://multijobs.ro/job/consilier-juridic-debutant/167",
+    "title": "Consilier juridic debutant",
+    "company": "TRANSILVANIA RECUPERARI CREANTE SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:31.472Z",
+    "status": "scraped",
+    "tags": [
+      "drept civil",
+      "recuperare creanțe"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consilier juridic debutant pe recuperare creanțe, nivel entry-level și competențe de drept civil/executare."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/avocat/100781",
+    "title": "Avocat",
+    "company": "ADECCO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:01:51.952Z",
+    "status": "scraped",
+    "tags": [
+      "Drept comercial",
+      "Redactare contracte"
+    ],
+    "matchPercentage": 82,
+    "reason": "Avocat corporate pe drept comercial și imobiliar, cu redactare/verificare de documente juridice și reprezentare în fața autorităților, nivel potrivit."
+  },
+  {
+    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00352011_en&amp;title=Ethics+and+Compliance+Counsel+Data+Privacy+Specialist",
+    "title": "Ethics and Compliance Counsel Data Privacy Specialist",
+    "company": "ACCENTURE BOARD SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:36.131Z",
+    "status": "scraped",
+    "tags": [
+      "Compliance",
+      "Drept UE"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol de compliance și protecția datelor care implică evaluări de conformitate, redactare de procese și analiză de reglementări, la nivel de specialist."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/Endava/744000157745049",
+    "title": "Commercial Legal Counsel",
+    "company": "ENDAVA ROMANIA SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-09T14:34:11.857Z",
+    "status": "scraped",
+    "tags": [
+      "drept comercial",
+      "contracte"
+    ],
+    "matchPercentage": 72,
+    "reason": "Consiliere juridică comercială și negociere de contracte, domeniu direct relevant, nivel de counsel fără cerință explicită de senioritate."
   },
   {
     "url": "https://apply.workable.com/j/53493DD9A2",
@@ -205,14 +223,33 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-30T12:40:08.946Z",
+    "date": "2026-11-09T15:57:55.785Z",
     "status": "scraped",
     "tags": [
-      "drept comercial",
-      "redactare contracte"
+      "Redactare contracte",
+      "Drept comercial"
     ],
-    "matchPercentage": 72,
-    "reason": "Specialist contracte implica revizuirea si redactarea de contracte comerciale, potrivit pe drept comercial si redactare acte juridice."
+    "matchPercentage": 68,
+    "reason": "Specialist contracte implică redactarea și gestionarea contractelor comerciale, potrivit parțial cu competențele juridice."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/secretar-secretara/99249866",
+    "title": "Secretar / Secretara",
+    "company": "BIROU DE CONSULTANTA LMA SRL",
+    "location": [
+      "Ploiesti",
+      "Campina",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:02:25.444Z",
+    "status": "scraped",
+    "tags": [
+      "procedură civilă",
+      "executare silită"
+    ],
+    "matchPercentage": 65,
+    "reason": "Deși intitulat secretar, atribuțiile de executare silită și procedură civilă folosesc parțial competențele juridice."
   },
   {
     "url": "https://oferimdemunca.ro/job/specialist-achizitii-publice/",
@@ -226,10 +263,10 @@
     "date": "2026-10-17T12:12:45.159Z",
     "status": "scraped",
     "tags": [
-      "Drept administrativ",
-      "Drept comercial"
+      "drept administrativ",
+      "redactare contracte"
     ],
-    "matchPercentage": 68,
-    "reason": "Specialist achiziții publice cu 2 ani experiență, implică legislație, contracte și conformitate administrativă."
+    "matchPercentage": 65,
+    "reason": "Pozitie de specialist achizitii publice care accepta studii juridice, foloseste legislatia achizitiilor si redactarea documentatiei de licitatie, cu experienta de 2 ani (nivel junior/mid)."
   }
 ]
