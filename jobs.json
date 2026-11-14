@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "url": "https://apply.workable.com/j/53493DD9A2",
+    "title": "Contract Specialist",
+    "company": "NUVEI SERVICES ROMANIA S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:26:15.078Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare contracte",
+      "Drept comercial"
+    ],
+    "matchPercentage": 82,
+    "reason": "Specialistul în contracte implică redactarea și revizuirea contractelor comerciale, folosind competențe juridice directe."
+  },
+  {
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
+    "title": "HR Administrator with French",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:37:50.450Z",
+    "status": "scraped",
+    "tags": [
+      "Dreptul muncii",
+      "Contracte"
+    ],
+    "matchPercentage": 68,
+    "reason": "Administrare HR cu contracte, legislația muncii și nivel entry-level de 1-2 ani."
+  }
+]
