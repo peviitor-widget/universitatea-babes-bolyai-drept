@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://apply.workable.com/j/53493DD9A2",
+    "title": "Contract Specialist",
+    "company": "NUVEI SERVICES ROMANIA S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-15T13:50:21.599Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare contracte",
+      "Drept comercial"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist contracte implică analiză și redactare de contracte comerciale, potrivit nivelului entry-mid."
+  },
+  {
     "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
     "title": "HR Administrator with French",
     "company": "MICHELIN ROMANIA S.A.",
@@ -8,13 +26,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T12:42:34.594Z",
+    "date": "2026-11-15T13:09:23.572Z",
     "status": "scraped",
     "tags": [
       "dreptul muncii",
       "contracte"
     ],
-    "matchPercentage": 68,
-    "reason": "Administrator HR entry-level (1-2 ani) cu cunoștințe de legislația muncii și contracte, potrivire parțială pe dreptul muncii."
+    "matchPercentage": 64,
+    "reason": "Administrator HR entry-level cu cunoștințe de legislația muncii și gestiunea contractelor, potrivire parțială pe dreptul muncii."
   }
 ]
