@@ -11,29 +11,11 @@
     "date": "2026-11-17T13:55:39Z",
     "status": "tested",
     "tags": [
-      "Litigații",
-      "Reprezentare"
+      "Reprezentare",
+      "Procesual civil"
     ],
-    "matchPercentage": 92,
-    "reason": "Consilier juridic litigii cu 2 ani experiență, cu reprezentare în instanță, arbitraj și stabilirea strategiei procesuale, potrivire directă."
-  },
-  {
-    "url": "https://multijobs.ro/job/paralegal-bucuresti-regim-hibrid/5711",
-    "title": "Paralegal – București, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:43:56Z",
-    "status": "tested",
-    "tags": [
-      "Redactare contracte",
-      "Acte juridice"
-    ],
-    "matchPercentage": 88,
-    "reason": "Rolul de paralegal la nivel entry-level folosește direct redactarea de acte juridice și interpretarea normelor."
+    "matchPercentage": 95,
+    "reason": "Consilier juridic litigii cu 2 ani experiență, cu reprezentare în instanță și strategie procesuală, potrivire directă."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273758/Professional/Consilier-juridic-junior--Bucuresti-",
@@ -47,47 +29,29 @@
     "date": "2026-11-17T13:29:35Z",
     "status": "tested",
     "tags": [
-      "consultanță juridică",
-      "dreptul muncii"
+      "Redactare contracte",
+      "Dreptul muncii"
     ],
     "matchPercentage": 88,
-    "reason": "Poziție de consilier juridic junior în servicii HR, cu utilizare directă a competențelor juridice la nivel entry-level."
+    "reason": "Consilier juridic junior într-o firmă de resurse umane, cu sarcini direct juridice și nivel entry-level."
   },
   {
-    "url": "https://multijobs.ro/job/studenti-la-drept-sau-avocati-absolventi/2711",
-    "title": "Studenți la Drept sau Avocați Absolvenți",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://cariere.porr.ro/joburi-porr/joburi/9413",
+    "title": "Avocat",
+    "company": "PORR CONSTRUCT SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:02:29Z",
+    "date": "2026-11-17T09:03:31Z",
     "status": "tested",
     "tags": [
-      "Redactare acte",
-      "Analiză normativă"
+      "Consultanță juridică",
+      "Redactare contracte"
     ],
     "matchPercentage": 85,
-    "reason": "Titlul vizează explicit studenți la drept și avocați absolvenți, deci sarcini juridice la nivel de început de carieră."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273757/Professional/Consilier-juridic--Bucuresti",
-    "title": "Consilier juridic- Bucuresti",
-    "company": "MADIRAL PROFESSIONAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:29:35Z",
-    "status": "tested",
-    "tags": [
-      "consultanță juridică",
-      "dreptul muncii"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de consilier juridic la o firmă de resurse umane, domeniu juridic direct, fără cerințe de senioritate."
+    "reason": "Domeniul se potrivește direct: consultanță juridică, litigii, achiziții publice și contracte, iar titlul nu indică o poziție senior."
   },
   {
     "url": "https://multijobs.ro/job/consilier-juridic/1358",
@@ -101,11 +65,11 @@
     "date": "2026-11-17T11:17:30Z",
     "status": "tested",
     "tags": [
-      "consultanță juridică",
-      "drept administrativ"
+      "Redactare contracte",
+      "Interpretare norme"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier juridic într-un institut public de cercetare, atribuții juridice directe, compatibil cu un absolvent."
+    "matchPercentage": 85,
+    "reason": "Consilier juridic în cadrul unui institut de cercetare, nivel nesenior, cu atribuții de contracte și consultanță."
   },
   {
     "url": "https://multijobs.ro/job/consilier-juridic/3689",
@@ -119,11 +83,83 @@
     "date": "2026-11-17T11:00:49Z",
     "status": "tested",
     "tags": [
-      "consultanță juridică",
-      "redactare contracte"
+      "Redactare contracte",
+      "Drept imobiliar"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier juridic într-o companie de construcții, sarcini juridice directe, fără experiență îndelungată cerută."
+    "matchPercentage": 85,
+    "reason": "Consilier juridic la o firmă de construcții, fără cerință senior, cu aplicare directă a dreptului contractelor și construirii."
+  },
+  {
+    "url": "https://apply.workable.com/j/53493DD9A2",
+    "title": "Contract Specialist",
+    "company": "NUVEI SERVICES ROMANIA S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-20T15:18:14.404Z",
+    "status": "scraped",
+    "tags": [
+      "Contracte",
+      "Drept comercial"
+    ],
+    "matchPercentage": 82,
+    "reason": "Titlul de Contract Specialist vizează contracte și drept comercial, fără indicatori de nivel senior."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273757/Professional/Consilier-juridic--Bucuresti",
+    "title": "Consilier juridic- Bucuresti",
+    "company": "MADIRAL PROFESSIONAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:29:35Z",
+    "status": "tested",
+    "tags": [
+      "Redactare contracte",
+      "Dreptul muncii"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziție de consilier juridic fără cerințe senior, la o companie de servicii HR, potrivită absolventului."
+  },
+  {
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
+    "title": "HR Administrator with French",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-20T14:35:09.273Z",
+    "status": "scraped",
+    "tags": [
+      "Dreptul muncii",
+      "Redactare contracte"
+    ],
+    "matchPercentage": 75,
+    "reason": "Rolul vizează contracte, încetări, modificări și dispute în domeniul muncii, iar experiența de 1-2 ani se încadrează la nivel junior."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:28:21Z",
+    "status": "tested",
+    "tags": [
+      "drept administrativ",
+      "gândire logică"
+    ],
+    "matchPercentage": 72,
+    "reason": "Poziția entry-level în achiziții publice presupune analiză de documentație și pregătirea documentelor pentru contractare, competențe din dreptul administrativ, fără cerințe de experiență îndelungată."
   },
   {
     "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
@@ -138,9 +174,9 @@
     "status": "tested",
     "tags": [
       "Drept administrativ",
-      "Interpretare norme"
+      "Finanțe publice"
     ],
-    "matchPercentage": 70,
-    "reason": "Licitațiile publice presupun aplicarea directă a legislației de achiziții publice și a dreptului administrativ, iar titulatura de specialist sugerează un nivel junior/mid."
+    "matchPercentage": 67,
+    "reason": "Achizițiile publice presupun aplicarea directă a normelor de drept administrativ și al finanțelor publice, iar nivelul de specialist poate fi accesibil unui profil junior/mid, deși descrierea e sumară."
   }
 ]
