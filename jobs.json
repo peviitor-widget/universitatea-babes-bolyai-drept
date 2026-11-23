@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/consilier-juridic-litigii-2-ani",
-    "title": "Consilier Juridic Litigii (2 ani)",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:55:39Z",
-    "status": "tested",
-    "tags": [
-      "Litigii",
-      "Reprezentare"
-    ],
-    "matchPercentage": 95,
-    "reason": "Consilier juridic în litigii cu 2 ani experiență, cu reprezentare în instanță și strategie procesuală."
-  },
-  {
-    "url": "https://multijobs.ro/job/studenti-la-drept-sau-avocati-absolventi/2711",
-    "title": "Studenți la Drept sau Avocați Absolvenți",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:02:29Z",
-    "status": "tested",
-    "tags": [
-      "Analiză normativă",
-      "Redactare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziție adresată explicit studenților la Drept și avocaților absolvenți, potrivită ca domeniu și nivel."
-  },
-  {
     "url": "https://multijobs.ro/job/paralegal-bucuresti-regim-hibrid/5711",
     "title": "Paralegal – București, Regim hibrid",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
@@ -48,46 +12,10 @@
     "status": "tested",
     "tags": [
       "Redactare acte",
-      "Analiză normativă"
+      "Scriere juridică"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție de paralegal, asistență juridică directă la nivel entry-level."
-  },
-  {
-    "url": "https://apply.workable.com/j/53493DD9A2",
-    "title": "Contract Specialist",
-    "company": "NUVEI SERVICES ROMANIA S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:31:06.707Z",
-    "status": "scraped",
-    "tags": [
-      "Redactare contracte",
-      "Drept comercial"
-    ],
-    "matchPercentage": 75,
-    "reason": "Specialist contracte într-o companie fintech, domeniu contractual direct și nivel acceptabil."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
-    "title": "Specialist achizitii publice",
-    "company": "DOCTORUL DE DINTI SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:28:21Z",
-    "status": "tested",
-    "tags": [
-      "Drept administrativ",
-      "Gândire logică"
-    ],
-    "matchPercentage": 72,
-    "reason": "Poziție entry-level în achiziții publice cu analiză de documentații, relevantă pentru dreptul administrativ."
+    "matchPercentage": 90,
+    "reason": "Paralegalul este o poziție juridică de suport la nivel de început, cu sarcini de redactare a actelor și scriere juridică."
   },
   {
     "url": "https://ppc.jobful.io/company/ppc-energy/jobs/data-protection-officer-2-ani",
@@ -101,11 +29,29 @@
     "date": "2026-11-17T14:20:50Z",
     "status": "tested",
     "tags": [
-      "Conformitate",
-      "Reglementare"
+      "Analiză normativă",
+      "Drept UE"
     ],
-    "matchPercentage": 68,
-    "reason": "Rolul de Data Protection Officer pe 2 ani vizează conformitate cu reglementările GDPR, domeniu juridic la nivel entry/mid."
+    "matchPercentage": 70,
+    "reason": "Rolul de Data Protection Officer pe contract de 2 ani vizează conformitate GDPR și analiză normativă, la un nivel acceptabil pentru un absolvent."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:28:21Z",
+    "status": "tested",
+    "tags": [
+      "texte normative",
+      "drept administrativ"
+    ],
+    "matchPercentage": 70,
+    "reason": "Poziție entry-level în achiziții publice care folosește interpretarea normelor, analiza documentației și redactarea documentelor de contractare."
   },
   {
     "url": "https://multijobs.ro/job/ofiter-administrare-contracte-durata-determinata/5242",
@@ -119,10 +65,46 @@
     "date": "2026-11-17T09:27:30Z",
     "status": "tested",
     "tags": [
-      "Redactare contracte",
-      "Drept comercial"
+      "Drept comercial",
+      "Redactare contracte"
     ],
-    "matchPercentage": 60,
-    "reason": "Administrarea contractelor folosește parțial cunoștințe de drept comercial la nivel de ofițer entry-level."
+    "matchPercentage": 65,
+    "reason": "Administrarea contractelor valorifică parțial cunoștințele de drept comercial, iar postul de ofițer este la nivel de intrare."
+  },
+  {
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/HR-Administrator-with-French_R-2026041484",
+    "title": "HR Administrator with French",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T13:46:10.689Z",
+    "status": "scraped",
+    "tags": [
+      "Dreptul muncii",
+      "Redactare contracte"
+    ],
+    "matchPercentage": 65,
+    "reason": "Administrare HR cu contracte, modificări, încetări, litigii și legislația muncii, la nivel 1-2 ani."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
+    "title": "Specialist licitații publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:14:25Z",
+    "status": "tested",
+    "tags": [
+      "Drept administrativ",
+      "Redactare contracte"
+    ],
+    "matchPercentage": 65,
+    "reason": "Licitațiile publice implică analiza legislației achizițiilor și redactarea documentației de atribuire, competențe juridice directe, iar nivelul de specialist nu indică cerințe de senioritate."
   }
 ]
